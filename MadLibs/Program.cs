@@ -4,7 +4,7 @@ using System.Collections.Generic;
 // --- Global Variables ---
 List<string> wordTypes = new List<string>() { "noun", "number", "noun", "food", "adjective", "verb", "type of employment", "noun", "adjective", "verb", "verb", "adjective" };
 List<string> userInput = new List<string>();
-List<string> storyList = new List<string>() { "I decided to go on a vacation to Australia with", ". We got to the airport", "hours early. When we went through security, I got stopped because I forgot to take","out of my pocket. We got some ", "for the flight and arrived at the gate. Once we boarded the plane, I was sitting next to a very ", "man. He spent the entire flight", "and talking about his job doing ",". Whenever I tried to sleep, he would step around me to go to the ", ". I was so ", ". Since I couldn't sleep, I decided to ", "and", "instead. Finally, we arrived in Australia. All in all, the flight was" };
+List<string> storyList = new List<string>() { "I decided to go on a vacation to Australia with ", ". We got to the airport ", "hours early. When we went through security, I got stopped because I forgot to take ", "out of my pocket. We got some ", "for the flight and arrived at the gate. Once we boarded the plane, I was sitting next to a very ", "man. He spent the entire flight ", "and talking about his job doing ", ". Whenever I tried to sleep, he would step around me to go to the ", ". I was so ", ". Since I couldn't sleep, I decided to ", " and ", "instead. Finally, we arrived in Australia. All in all, the flight was " };
 
 // --- Main Program Flow ---
 welcome();

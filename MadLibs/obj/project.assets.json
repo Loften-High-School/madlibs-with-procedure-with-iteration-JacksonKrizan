@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jmkrizan/Documents/GitHub/MadLibsv1/MadLibs/MadLibs.csproj",
+      "projectUniqueName": "/Users/jmkrizan/Documents/GitHub/madlibs-with-procedure-with-iteration-JacksonKrizan/MadLibs/MadLibs.csproj",
       "projectName": "MadLibs",
-      "projectPath": "/Users/jmkrizan/Documents/GitHub/MadLibsv1/MadLibs/MadLibs.csproj",
+      "projectPath": "/Users/jmkrizan/Documents/GitHub/madlibs-with-procedure-with-iteration-JacksonKrizan/MadLibs/MadLibs.csproj",
       "packagesPath": "/Users/jmkrizan/.nuget/packages/",
-      "outputPath": "/Users/jmkrizan/Documents/GitHub/MadLibsv1/MadLibs/obj/",
+      "outputPath": "/Users/jmkrizan/Documents/GitHub/madlibs-with-procedure-with-iteration-JacksonKrizan/MadLibs/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jmkrizan/.nuget/NuGet/NuGet.Config"
